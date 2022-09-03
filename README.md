@@ -33,5 +33,5 @@ This animation system uses a simple state machine to determine which animation s
 
 ![Animation_State_Machine](https://user-images.githubusercontent.com/34342644/188281083-f34a7e88-7165-4bf4-b620-6c8290e1e491.jpg)
 
-## How to use
+## Installation
 Currently this project is not in a Unity package. You may use this projects as a template if you wish to use the anmiation tool in this state, however be aware it is a work-in-progress.
